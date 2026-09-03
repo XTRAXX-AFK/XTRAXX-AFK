@@ -1,5 +1,11 @@
 ## Hi there!👋 I'm Hans-Eirik
 
+*I am a 26 year old IT student, with a passion for tech*
+
+*Previously, IT-worker at Vigør Rehabilitation Hospital*
+
+**Currently first year student in IT and Informationssystems, at the University of Agder**
+
 <!--
 **XTRAXX-AFK/XTRAXX-AFK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
