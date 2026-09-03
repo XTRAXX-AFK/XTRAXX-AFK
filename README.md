@@ -2,7 +2,7 @@
 
 *I am a 26 year old IT student, with a passion for tech*
 
-*Previously, IT-worker at Vigør Rehabilitation Hospital, IT-technican apprentice in NFK*
+**Previously, IT-worker at Vigør Rehabilitation Hospital, IT-technican apprentice in NFK**
 
 **Currently first year student in IT and Informationssystems, at the University of Agder**
 
