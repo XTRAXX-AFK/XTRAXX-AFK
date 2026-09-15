@@ -4,7 +4,7 @@
 
 👨‍💼Previously, IT-worker at Vigør Rehabilitation Hospital, IT-technican apprentice in NFK
 
-🏫Currently, first year student in IT and Informationssystems, at the University of Agder
+🏫Currently, first year student in IT and Informationssystems, at the University of Agder, and working part time at a Coop.
 
 🌱 Fort the time being i am learning about Github/Git, and much more.
 
