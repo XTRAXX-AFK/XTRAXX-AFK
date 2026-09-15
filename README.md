@@ -6,7 +6,7 @@
 
 🏫Currently, first year student in IT and Informationssystems, at the University of Agder, and working part time at a Coop.
 
-🌱 Fort the time being i am learning about Github/Git, and much more.
+🌱 For the time being i am learning about Github/Git, and much more.
 
 💻 Current Tech Intrests:
 - IT and Digitalization in society
