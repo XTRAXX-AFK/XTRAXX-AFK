@@ -6,13 +6,15 @@
 
 *Currently first year student in IT and Informationssystems, at the University of Agder*
 
+- 🌱 I’m currently learning Github/Git, 
+- 📫 How to reach me: https://no.linkedin.com/in/hans-eirik-pettersen-bj%C3%B8rnstad-86a360193
 <!--
 **XTRAXX-AFK/XTRAXX-AFK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - ****
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Github/Git, 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
