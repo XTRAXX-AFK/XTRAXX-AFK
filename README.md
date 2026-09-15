@@ -1,6 +1,6 @@
 ## Hi there!👋 I'm Hans-Eirik
 
-### I am a 26 year old IT student, with a passion for tech*
+*I am a 26 year old IT student, with a passion for tech*
 
 👨‍💼Previously, IT-worker at Vigør Rehabilitation Hospital, IT-technican apprentice in NFK
 
