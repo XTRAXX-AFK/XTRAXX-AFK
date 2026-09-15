@@ -4,9 +4,9 @@
 
 👨‍💼Previously, IT-worker at Vigør Rehabilitation Hospital, IT-technican apprentice in NFK
 
-🏫Currently first year student in IT and Informationssystems, at the University of Agder
+🏫Currently, first year student in IT and Informationssystems, at the University of Agder
 
-🌱 I’m currently learning about Github/Git, and much more.
+🌱 Fort the time being i am learning about Github/Git, and much more.
 
 💻 Current Tech Intrests:
 - IT and Digitalization in society
